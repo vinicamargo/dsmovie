@@ -28,7 +28,7 @@ function Listing() {
             setPage(res.data);
         }
     );
-    }, [pageNumber]);    
+    }, [pageNumber]);
 
     return (
         <>
